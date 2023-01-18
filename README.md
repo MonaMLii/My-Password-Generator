@@ -34,21 +34,15 @@ https://monamlii.github.io/My-Password-Generator/
 
 
 
-<img width="1097" alt="Screenshot 2023-01-17 at 11 50 29 PM" src="https://user-images.githubusercontent.com/89316044/213116781-81ca69fb-61a7-4811-af54-3d923bd67333.png">
-<img width="1064" alt="Screenshot 2023-01-17 at 11 50 20 PM" src="https://user-images.githubusercontent.com/89316044/213116784-81c85fa9-6997-475c-963f-51fb54358805.png">
-<img width="1083" alt="Screenshot 2023-01-17 at 11 50 10 PM" src="https://user-images.githubusercontent.com/89316044/213116786-5b6e877c-7371-433b-bc57-45d8cb4582ca.png">
-<img width="1088" alt="Screenshot 2023-01-17 at 11 50 02 PM" src="https://user-images.githubusercontent.com/89316044/213116789-02b9af5e-91b0-411f-815d-5bf6905e2160.png">
-<img width="1104" alt="Screenshot 2023-01-17 at 11 49 53 PM" src="https://user-images.githubusercontent.com/89316044/213116792-4e1a1088-4c96-400a-a0c4-394604d74212.png">
-<img width="1038" alt="Screenshot 2023-01-17 at 11 48 33 PM" src="https://user-images.githubusercontent.com/89316044/213116794-e7b86bad-f839-475a-ba45-bc931775cc0a.png">
-<img width="1175" alt="Screenshot 2023-01-17 at 11 48 17 PM" src="https://user-images.githubusercontent.com/89316044/213116797-f0cbe3d3-99e8-4d4e-be0f-628d10792ddc.png">
-<img width="1142" alt="Screenshot 2023-01-17 at 11 48 04 PM" src="https://user-images.githubusercontent.com/89316044/213116799-14f2f762-4b84-44f1-abab-bf7bbf5687cd.png">
 
-
-
-
-
-
-
+<img width="1097" alt="Screenshot 2023-01-17 at 11 50 29 PM" src="https://user-images.githubusercontent.com/89316044/213117035-a3289092-2e25-4673-bba6-0827c0eac1b0.png">
+<img width="1064" alt="Screenshot 2023-01-17 at 11 50 20 PM" src="https://user-images.githubusercontent.com/89316044/213117037-0be56add-482f-4f66-9760-46e403d38684.png">
+<img width="1083" alt="Screenshot 2023-01-17 at 11 50 10 PM" src="https://user-images.githubusercontent.com/89316044/213117039-4c28586a-6d54-4455-8019-fee2ddc76e81.png">
+<img width="1088" alt="Screenshot 2023-01-17 at 11 50 02 PM" src="https://user-images.githubusercontent.com/89316044/213117040-05b89383-c0a6-49ed-a788-23db25a2d340.png">
+<img width="1104" alt="Screenshot 2023-01-17 at 11 49 53 PM" src="https://user-images.githubusercontent.com/89316044/213117041-34a882ec-53d3-4d48-b211-dba9b385490d.png">
+<img width="1038" alt="Screenshot 2023-01-17 at 11 48 33 PM" src="https://user-images.githubusercontent.com/89316044/213117043-b81b6c1d-a262-48c0-b383-1e85ef142f31.png">
+<img width="1175" alt="Screenshot 2023-01-17 at 11 48 17 PM" src="https://user-images.githubusercontent.com/89316044/213117045-cb822b01-0129-4417-b2f9-0afc0c8b6f13.png">
+<img width="1142" alt="Screenshot 2023-01-17 at 11 48 04 PM" src="https://user-images.githubusercontent.com/89316044/213117048-528fa57e-9e1d-4989-990c-34e57b2bd62f.png">
 
 
 
